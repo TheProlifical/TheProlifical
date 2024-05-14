@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on ( **AI tools** ) 
 - 🤔 I’m looking for help with ( **Web Design** )
 
-<h1 color="#006AFF">Tech Stack</h1>
+<h1 style="color:blue">Tech Stack</h1>
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
