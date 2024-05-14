@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ahson</h1>
-<h3 align="center">I'm learning to become a Software Engineer!!</h3>
+<h3 align="center">I've been passionate about coding since a young age, exploring various programming languages and technologies over the years.</h3>
 
 <!--
 **TheProlifical/TheProlifical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
