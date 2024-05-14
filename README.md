@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on ( **AI tools** ) 
 - 🤔 I’m looking for help with ( **Web Design** )
 
-<h1 style="color:blue">Tech Stack</h1>
+## Tech stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -39,4 +39,3 @@
 ## GITHUB STATS
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheProlifical&show_icons=true&locale=en&theme=transparent"/></p>
-<span style="color:blue">some *blue* text</span>.
