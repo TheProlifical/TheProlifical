@@ -38,4 +38,4 @@
 
 ## GITHUB STATS
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheProlifical&show_icons=true&locale=en&theme=synthwave"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheProlifical&show_icons=true&locale=en&theme=dracula"/></p>
