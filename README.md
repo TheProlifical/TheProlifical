@@ -1,4 +1,4 @@
-[![MasterHead](https://media1.tenor.com/m/H549T-Zxtg0AAAAd/anime-aesthetic.gif)](https://github.com/TheProlifical)
+<img src="https://media1.tenor.com/m/H549T-Zxtg0AAAAd/anime-aesthetic.gif" style="width: 100%; height: auto;">
 <h1 align="center">Hello! I'm Ahson.</h1>
 <h3 align="center">I've been passionate about coding since a young age, exploring various programming languages and technologies over the years.</h3>
 <h1 align="center"></h1>
