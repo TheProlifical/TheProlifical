@@ -43,6 +43,6 @@
 
 ## GITHUB STATS
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheProlifical&show_icons=true&locale=en&theme=transparent"/>
+<p><img align="center" width="460px" src="https://github-readme-stats.vercel.app/api?username=TheProlifical&show_icons=true&locale=en&theme=transparent"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheProlifical&theme=transparent&layout=donut"/>
 </p>
