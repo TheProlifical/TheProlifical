@@ -1,4 +1,4 @@
-<img src="https://media1.tenor.com/m/H549T-Zxtg0AAAAd/anime-aesthetic.gif" alt="Banner" style="width: 500%; height: auto;">
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))]
 <h1 align="center">Hello! I'm Ahson.</h1>
 <h3 align="center">I've been passionate about coding since a young age, exploring various programming languages and technologies over the years.</h3>
 <h1 align="center"></h1>
