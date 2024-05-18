@@ -44,5 +44,5 @@
 ## GITHUB STATS
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheProlifical&show_icons=true&locale=en&theme=transparent"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheProlifical&theme=dark&layout=compact"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheProlifical&theme=dark"/>
 </p>
