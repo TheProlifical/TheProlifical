@@ -2,8 +2,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=TheProlifical&label=Profile%20views&color=0e75b6&style=flat)
 
-**<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://www.youtube.com/@TheProlifical" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/TheProlifical" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/Ahson_" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
 
 <h1 align="center">Ｈｅｌｌｏ，　Ｉ＇ｍ　Ａｈｓｏｎ</h1>
@@ -16,6 +14,8 @@ I've been passionate about coding since a young age, exploring various programmi
 - 👯 I’m looking to collaborate on ( **AI tools** )
 - 🤔 I’m looking for help with ( **web design** )
 
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="https://www.youtube.com/@TheProlifical" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/TheProlifical" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/Ahson_" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
 ## 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞
 
