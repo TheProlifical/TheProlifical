@@ -14,10 +14,18 @@
 
 
 
+### 👋 Hey there! I'm <a href="https://github.com/@TheProlifical">Ahson</a>  
 
-Hey! I'm <a href="https://github.com/@TheProlifical">Ahson</a>... I'm a full-stack developer, white-hat hacker, and just a coder who's into everything. Yes, you heard that right—EVERYTHING! "Everything is better than nothing," am I right?  
-I also run three YouTube channels on the side (P.S.: I only upload on one of them). I'm pretty active on <a href="https://discord.gg/stcApdCN3T">Discord</a>, and while I do play games, I'm slowly losing interest in them. :(  
-I also have a <a href="https://techsleekblogs.vercel.app/">blog</a>, so make sure to check it out! And uh… I guess that's it!  
+I'm a **full-stack developer** 💻, a **white-hat hacker** 🔐, and just a tech enthusiast who's into... well, **everything**! Yep, you heard that right—**EVERYTHING!** Because hey, *something is always better than nothing*, right? 😆  
+
+🎥 On the side, I run **three YouTube channels** (P.S. I actually upload on just one 😅).  
+
+💬 I'm pretty active on **[Discord](https://discord.gg/stcApdCN3T)**—feel free to say hi! I used to be big into gaming 🎮, but... let's just say my interest is slowly fading away. 😢  
+
+📝 I also have a **[blog](https://techsleekblogs.vercel.app/)** where I share my thoughts, projects, and tech insights. Be sure to check it out! 🚀  
+
+And, uh... I guess that's it! See you around! 😎  
+
 #
 
   🔭・Currently working on <strong>Hand Tracking Software</strong> <br>
