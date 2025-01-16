@@ -5,12 +5,10 @@
 
 I'm passionate about coding and have been exploring various programming languages and technologies from a young age.
 
-<ul style="list-style-type: none;">
- 🔭 <li>・Currently working on <strong>Hand Tracking Software</strong></li>
-  <li>🌱・Always learning <u><strong>everything</strong></u></li>
-  <li>👯・Looking to collaborate on <strong>AI tools</strong></li>
-  <li>🤔・Seeking help with <strong>Web Design</strong></li>
-</ul>
+🔭・Currently working on **Hand Tracking Software** <br>
+🌱・Always learning **everything** <br>
+👯・Looking to collaborate on **AI tools** <br>
+🤔・Seeking help with **Web Design** 
 
 
 ---
