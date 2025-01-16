@@ -63,9 +63,3 @@ I'm passionate about coding and have been exploring various programming language
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="460px" src="https://github-readme-stats.vercel.app/api?username=TheProlifical&show_icons=true&locale=en&theme=transparent"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheProlifical&theme=transparent&layout=donut"/>
-</p>
