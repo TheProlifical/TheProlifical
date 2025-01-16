@@ -4,7 +4,6 @@
 <a>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=TheProlifical&style=for-the-badge" alt="Profile Views">
 </p>
 
 
@@ -12,6 +11,8 @@
 
 
 ### 👋 Hey there! I'm <a href="https://github.com/@TheProlifical">Ahson</a>  
+
+<img src="https://komarev.com/ghpvc/?username=TheProlifical&style=for-the-badge" alt="Profile Views">
 
 I'm a **full-stack developer** 💻, a **white-hat hacker** 🔐, and just a tech enthusiast who's into... well, **everything**! Yep, you heard that right—**EVERYTHING!** Because hey, *something is always better than nothing*, right? 😆  
 
