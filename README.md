@@ -1,7 +1,7 @@
 ![Background](https://github.com/TheProlifical/TheProlifical/blob/main/banner.png?raw=true)
 
 
-<a href="https://git.io/typing-svg">
+<a>
                <p align="right">
 Welcome to my humble abode!
 <img src="https://komarev.com/ghpvc/?username=TheProlifical&style=for-the-badge" alt="Profile Views"></p>
