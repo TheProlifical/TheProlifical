@@ -13,6 +13,7 @@
 
 - 🔭 Currently working on **Hand Tracking Software** 
 - 🌱 Always learning **everything**
+========================================
 - 👯 Looking to collaborate on **AI tools** 
 - 🤔 Seeking help with **Web Design** </a>
 </samp>
