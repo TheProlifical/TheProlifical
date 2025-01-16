@@ -8,10 +8,10 @@ I also have a <a href="https://techsleekblogs.vercel.app/">blog</a>, so make sur
 <samp>
 #
 <samp>
-# 🔭・Currently working on <strong>Hand Tracking Software</strong> <br>
-# 🌱・Always learning <strong>everything</strong> <br>
-# 👯・Looking to collaborate on <strong>AI tools</strong> <br>
-# 🤔・Seeking help with <strong>Web Design</strong> 
+<h1>🔭・Currently working on <strong>Hand Tracking Software</strong> <br>
+  🌱・Always learning <strong>everything</strong> <br>
+  👯・Looking to collaborate on <strong>AI tools</strong> <br>
+  🤔・Seeking help with <strong>Web Design</strong> </h1>
 </samp>
 
 ---
