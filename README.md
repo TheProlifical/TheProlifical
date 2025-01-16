@@ -3,9 +3,8 @@
 
 <a>
 <p align="right">
-  Welcome to my humble abode!
-
-<img src="https://komarev.com/ghpvc/?username=TheProlifical&style=for-the-badge" alt="Profile Views"></p>
+Welcome to my humble abode!<img src="https://komarev.com/ghpvc/?username=TheProlifical&style=for-the-badge" alt="Profile Views">
+</p>
 
 </a>
 
