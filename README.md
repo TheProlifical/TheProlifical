@@ -1,4 +1,4 @@
-<img src="https://github.com/TheProlifical/TheProlifical/blob/main/banner.png?raw=true">
+[[]](https://github.com/TheProlifical/TheProlifical/blob/main/banner.png?raw=true)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hey!+I'm+Ahson.;I'm+a+full+stack+developer!;%2B+I+do+White+Hat+Hacking+on+the+side!)](https://git.io/typing-svg) <p align="right"> ![Profile Views](https://komarev.com/ghpvc/?username=TheProlifical&style=for-the-badge) </p>
 <samp>
 Hey! I'm <a href="https://github.com/@TheProlifical">Ahson</a>... I'm a full-stack developer, white-hat hacker, and just a coder who's into everything. Yes, you heard that right—EVERYTHING! "Everything is better than nothing," am I right?  
