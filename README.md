@@ -71,8 +71,8 @@ I'm passionate about coding and have been exploring various programming language
 <p align="center">
   <!-- Monospace Font -->
   <samp>
-    [[prev](https://octo-ring.com/p/TheProlifical/prev)] .
-    [[random](https://octo-ring.com/p/TheProlifical/random)] .
-    [[next](https://octo-ring.com/p/TheProlifical/next)] .
+    <a href="https://octo-ring.com/p/TheProlifical/prev">prev</a> .
+    <a href="https://octo-ring.com/p/TheProlifical/random">random</a> .
+    <a href="https://octo-ring.com/p/TheProlifical/next">next</a> .
   </samp>
 </p>
