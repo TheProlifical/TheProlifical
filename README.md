@@ -18,13 +18,13 @@ I'm passionate about coding and have been exploring various programming language
 <p align="center">
   <a href="https://www.youtube.com/@TheProlifical" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28">
-  </a>
+  </a>​​​​​    
   <a href="https://github.com/TheProlifical" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28">
-  </a>
+  </a>   
   <a href="https://twitter.com/Ahson_" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28">
-  </a>
+  </a>    
 </p>
 
 ---
