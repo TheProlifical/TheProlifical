@@ -7,8 +7,9 @@
 <!-- Monospace Font -->
 
 <samp>I'm passionate about coding and have been exploring various programming languages and technologies from a young age.</samp>
-<samp>
 <!-- Monospace Font -->
+
+<samp>
 
 - 🔭 Currently working on **Hand Tracking Software** 
 - 🌱 Always learning **everything**
