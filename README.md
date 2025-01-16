@@ -78,31 +78,26 @@ And, uh... I guess that's it! See you around! 😎
 ---
 
 <p align="center">
-<samp>
-  <a href="#">other links...</a>
-</samp>
-</p>
-<p align="center">
-<samp>
-<a href="mailto:ahson01@proton.me">mail!</a>
-<a href="https://guns.lol/theprolifical">all socials!</a>
-</samp>
+  <samp>
+    <a href="#">Other Links...</a> | 
+    <a href="mailto:ahson01@proton.me">Mail!</a> | 
+    <a href="https://guns.lol/theprolifical">All Socials!</a>
+  </samp>
 </p>
 
 ---
 
-
 <p align="center">
   <samp>
-    <a href="https://octo-ring.com/">octo-ring</a>
+    <a href="https://octo-ring.com/">Octo-Ring</a>
   </samp>
 </p>
 
 <p align="center">
   <samp>
-    <a href="https://octo-ring.com/p/TheProlifical/prev">prev</a> .
-    <a href="https://octo-ring.com/p/TheProlifical/random">random</a> .
-    <a href="https://octo-ring.com/p/TheProlifical/next">next</a> .
+    <a href="https://octo-ring.com/p/TheProlifical/prev">Prev</a> • 
+    <a href="https://octo-ring.com/p/TheProlifical/random">Random</a> • 
+    <a href="https://octo-ring.com/p/TheProlifical/next">Next</a>
   </samp>
 </p>
 
