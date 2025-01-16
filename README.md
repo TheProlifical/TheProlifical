@@ -70,11 +70,6 @@ I'm a **full-stack developer** 💻, a **white-hat hacker** 🔐, and an all-aro
   <a href="https://github.com/@TheProlifical">💻 GitHub</a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheProlifical&style=for-the-badge" alt="Profile Views">
-</p>
 
 ---
 ### 🔗 Octo-Ring
@@ -90,4 +85,10 @@ I'm a **full-stack developer** 💻, a **white-hat hacker** 🔐, and an all-aro
     <a href="https://octo-ring.com/p/TheProlifical/random">random</a> |
     <a href="https://octo-ring.com/p/TheProlifical/next">next</a>
   </samp>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TheProlifical&style=for-the-badge" alt="Profile Views">
 </p>
