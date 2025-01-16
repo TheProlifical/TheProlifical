@@ -75,19 +75,6 @@ And, uh... I guess that's it! See you around! 😎
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim">
 </p>
 
----
-
-
-<p align="center">
-  <samp>
-    <a href="https://youtube.com/@ahson01">📺 YouTube</a> |
-    <a href="https://discord.com/stcApdCN3T">💬 Discord</a> |
-    <a href="https://open.spotify.com/user/xx07qk8dae8i6p56ib">🎵 Spotify</a> |
-    <a href="https://instagram.com/ahson.001/">📸 Instagram</a> |
-    <a href="https://x.com/@ahson_">🐦 X (Twitter)</a> |
-    <a href="https://github.com/@TheProlifical">💻 GitHub</a>
-  </samp>
-</p>
 
 
 ---
@@ -103,6 +90,22 @@ And, uh... I guess that's it! See you around! 😎
     <a href="https://octo-ring.com/p/TheProlifical/prev">Prev</a> • 
     <a href="https://octo-ring.com/p/TheProlifical/random">Random</a> • 
     <a href="https://octo-ring.com/p/TheProlifical/next">Next</a>
+  </samp>
+</p>
+
+---
+
+---
+
+
+<p align="center">
+  <samp>
+    <a href="https://youtube.com/@ahson01">📺 YouTube</a> |
+    <a href="https://discord.com/stcApdCN3T">💬 Discord</a> |
+    <a href="https://open.spotify.com/user/xx07qk8dae8i6p56ib">🎵 Spotify</a> |
+    <a href="https://instagram.com/ahson.001/">📸 Instagram</a> |
+    <a href="https://x.com/@ahson_">🐦 X (Twitter)</a> |
+    <a href="https://github.com/@TheProlifical">💻 GitHub</a>
   </samp>
 </p>
 
