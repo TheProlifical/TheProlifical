@@ -16,10 +16,10 @@ I'm a **full-stack developer** 💻, a **white-hat hacker** 🔐, and an all-aro
 
 ### 🔍 What I'm Up To
 
-- 🔭 **Building**: Hand Tracking Software 🤖  
+- 🔭 **Building**: Wifi Hacking Tool 🤖  
 - 🌱 **Learning**: Everything 📚  
 - 👯 **Collaborating**: AI tools & Web Projects 🧠  
-- 🎨 **Seeking Help**: Web Design 🎭  
+- 🎨 **Seeking Help**: Making a new web developer stack called "TRAP" 
 
 ---
 
