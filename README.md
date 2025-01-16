@@ -10,10 +10,10 @@
 <samp>
 <!-- Monospace Font -->
 
-<a> 🔭 Currently working on **Hand Tracking Software** </a>
-<a> 🌱 Always learning **everything** </a>
-<a> 👯 Looking to collaborate on **AI tools** </a>
-<a> 🤔 Seeking help with **Web Design** </a>
+- 🔭 Currently working on **Hand Tracking Software** 
+- 🌱 Always learning **everything**
+- 👯 Looking to collaborate on **AI tools** 
+- 🤔 Seeking help with **Web Design** </a>
 </samp>
 
 ---
