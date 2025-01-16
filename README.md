@@ -4,9 +4,12 @@
 
 # ᴀʙᴏᴜᴛ ᴍᴇ
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hey!+I'm+Ahson.;I'm+a+full+stack+developer!;%2B+I+do+White+Hat+Hacking+on+the+side!)](https://git.io/typing-svg)
+<!-- Monospace Font -->
 
-I'm passionate about coding and have been exploring various programming languages and technologies from a young age.
+<samp>I'm passionate about coding and have been exploring various programming languages and technologies from a young age.</samp>
 <samp>
+<!-- Monospace Font -->
+
 - 🔭 Currently working on **Hand Tracking Software**
 - 🌱 Always learning **everything**
 - 👯 Looking to collaborate on **AI tools**
