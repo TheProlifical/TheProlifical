@@ -64,18 +64,15 @@ I'm passionate about coding and have been exploring various programming language
 ---
 
 [**octo ring**](https://octo-ring.com/)
-[[prev](https://octo-ring.com/p/TheProlifical/prev)]  [[random](https://octo-ring.com/p/TheProlifical/random)]  [[next](https://octo-ring.com/p/TheProlifical/next)]
+    
 
 ---
 
 <p align="center">
   <!-- Monospace Font -->
   <samp>
-    <a href="">p5.js</a> .
-    <a href="">wikipedia</a> .
-    <a href="">blog</a> .
-    <a href="/">linkedin</a> .
-    <a href="d">metrics</a> .
-    <a href="">old-projects</a>
+    [[prev](https://octo-ring.com/p/TheProlifical/prev)] .
+    [[random](https://octo-ring.com/p/TheProlifical/random)] .
+    [[next](https://octo-ring.com/p/TheProlifical/next)] .
   </samp>
 </p>
