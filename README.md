@@ -14,7 +14,7 @@ I'm passionate about coding and have been exploring various programming language
 
 ---
 
-# 🔗 Connect with Me
+# 🔗 ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ
 <p align="center">
   <a href="https://www.youtube.com/@TheProlifical" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" alt="YouTube">
@@ -29,9 +29,9 @@ I'm passionate about coding and have been exploring various programming language
 
 ---
 
-# ⚙️ Tech Stack
+# ⚙️ ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ
 
-### 🖥️ Languages
+### 🖥️ ʟᴀɴɢᴜᴀɢᴇꜱ 
 <p>
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
@@ -41,7 +41,7 @@ I'm passionate about coding and have been exploring various programming language
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
 </p>
 
-### 🔧 Backend
+### 🔧 ʙᴀᴄᴋᴇɴᴅ 
 <p>
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
@@ -51,7 +51,7 @@ I'm passionate about coding and have been exploring various programming language
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
 </p>
 
-### 🎨 Frontend
+### 🎨 ꜰʀᴏɴᴛᴇɴᴅ 
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -61,7 +61,7 @@ I'm passionate about coding and have been exploring various programming language
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS">
 </p>
 
-### 🛠️ Tools
+### 🛠️ ᴛᴏᴏʟꜱ
 <p>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
