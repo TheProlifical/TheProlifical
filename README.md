@@ -1,43 +1,36 @@
+
 ![Background](https://github.com/TheProlifical/TheProlifical/blob/main/banner.png?raw=true)
-# 
 
-<a>
-
-<p align="center">
-</p>
+Hey there! I'm <a href="https://github.com/TheProlifical">Ahson</a> 👋
 
 
-</a>
+  <img src="https://komarev.com/ghpvc/?username=TheProlifical&style=for-the-badge" alt="Profile Views">
 
-
-### 👋 Hey there! I'm <a href="https://github.com/@TheProlifical">Ahson</a>  
-
-<img src="https://komarev.com/ghpvc/?username=TheProlifical&style=for-the-badge" alt="Profile Views">
-
-I'm a **full-stack developer** 💻, a **white-hat hacker** 🔐, and just a tech enthusiast who's into... well, **everything**! Yep, you heard that right—**EVERYTHING!** Because hey, *something is always better than nothing*, right? 😆  
-
-🎥・I run **three YouTube channels** (P.S. I actually upload on just one 😅).  
-💬・I'm pretty active on **[Discord](https://discord.gg/stcApdCN3T)**—feel free to say hi! I used to be big into gaming 🎮, but my interest is slowly fading away.  
-📝・I also have a **[blog](https://techsleekblogs.vercel.app/)** where I share my thoughts, projects, and tech insights. Be sure to check it out! 🚀  
 
 ---
 
-### 🔍 What I'm up to:  
-🔭・Currently working on **Hand Tracking Software** 🤖  
-🌱・Always learning **everything** 📚  
-👯・Looking to collaborate on **AI tools** 🧠  
-🎨・Seeking help with **Web Design** 🎭  
+### 🚀 About Me
 
-And, uh... I guess that's it! See you around! 😎  
+I'm a **full-stack developer** 💻, a **white-hat hacker** 🔐, and an all-around **tech enthusiast**. I love diving into everything because, hey, *something is always better than nothing*, right? 
+
+- 🎥 **Three YouTube channels** (I actually upload on just one lol).
+- 💬 Active on **[Discord](https://discord.gg/stcApdCN3T)**—drop by and say hi!
+- 📝 **[Check out my blog](https://techsleekblogs.vercel.app/)** for projects, tech insights, and thoughts.
 
 ---
 
-# ⚙️ ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ
+### 🔍 What I'm Up To
 
-### 🖥️ ʟᴀɴɢᴜᴀɢᴇꜱ 
+- 🔭 **Building**: Hand Tracking Software 🤖  
+- 🌱 **Learning**: Everything 📚  
+- 👯 **Collaborating**: AI tools & Web Projects 🧠  
+- 🎨 **Seeking Help**: Web Design 🎭  
 
-<p>
-  
+---
+
+## ⚙️ Tech Stack
+
+### 🖥️ Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -45,11 +38,8 @@ And, uh... I guess that's it! See you around! 😎
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-orange?style=for-the-badge&logo=rust&logoColor=white)
-</p>
 
-### 🔧 ʙᴀᴄᴋᴇɴᴅ 
-<p>
-  
+### 🔧 Backend
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
@@ -57,11 +47,7 @@ And, uh... I guess that's it! See you around! 😎
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-</p>
-
-### 🎨 ꜰʀᴏɴᴛᴇɴᴅ 
-<p>
-
+### 🎨 Frontend
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -69,22 +55,29 @@ And, uh... I guess that's it! See you around! 😎
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-</p>
-
-### 🛠️ ᴛᴏᴏʟꜱ
-<p>
-
+### 🛠️ Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Microsoft SharePoint ](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![SharePoint](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-
-</p>
-
 
 ---
 
+### 🌎 Find Me Here
+
+<p align="center">
+  <a href="https://youtube.com/@ahson01">📺 YouTube</a> |
+  <a href="https://discord.gg/stcApdCN3T">💬 Discord</a> |
+  <a href="https://open.spotify.com/user/xx07qk8dae8i6p56ib">🎵 Spotify</a> |
+  <a href="https://instagram.com/ahson.001/">📸 Instagram</a> |
+  <a href="https://x.com/@ahson_">🐦 X (Twitter)</a> |
+  <a href="https://github.com/@TheProlifical">💻 GitHub</a>
+</p>
+
+---
+
+### 🔗 Octo-Ring
 <p align="center">
   <samp>
     <a href="https://octo-ring.com/">octo-ring</a>
@@ -93,24 +86,8 @@ And, uh... I guess that's it! See you around! 😎
 
 <p align="center">
   <samp>
-    <a href="https://octo-ring.com/p/TheProlifical/prev">prev</a> .
-    <a href="https://octo-ring.com/p/TheProlifical/random">random</a> .
-    <a href="https://octo-ring.com/p/TheProlifical/next">next</a> .
+    <a href="https://octo-ring.com/p/TheProlifical/prev">prev</a> |
+    <a href="https://octo-ring.com/p/TheProlifical/random">random</a> |
+    <a href="https://octo-ring.com/p/TheProlifical/next">next</a>
   </samp>
 </p>
-
----
-
-
-<p align="center">
-  <samp>
-    <a href="https://youtube.com/@ahson01">📺 YouTube</a> |
-    <a href="https://discord.com/stcApdCN3T">💬 Discord</a> |
-    <a href="https://open.spotify.com/user/xx07qk8dae8i6p56ib">🎵 Spotify</a> |
-    <a href="https://instagram.com/ahson.001/">📸 Instagram</a> |
-    <a href="https://x.com/@ahson_">🐦 X (Twitter)</a> |
-    <a href="https://github.com/@TheProlifical">💻 GitHub</a>
-  </samp>
-</p>
-
----
