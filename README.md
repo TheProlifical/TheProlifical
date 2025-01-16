@@ -1,4 +1,3 @@
-<!-- Monospace Font -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TheProlifical&style=for-the-badge)
 
