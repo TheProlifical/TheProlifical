@@ -51,7 +51,7 @@ And, uh... I guess that's it! See you around! 😎
 # ⚙️ ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ
 
 ### 🖥️ ʟᴀɴɢᴜᴀɢᴇꜱ 
----
+
 <p>
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
