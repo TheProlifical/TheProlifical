@@ -1,3 +1,4 @@
+  <!-- Monospace Font -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TheProlifical&style=for-the-badge)
 
@@ -13,7 +14,7 @@ I'm passionate about coding and have been exploring various programming language
 </samp>
 ---
 
-# 📬 
+# connect with me
 <p align="left">
   <a href="https://www.youtube.com/@TheProlifical" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28">
