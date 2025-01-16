@@ -19,7 +19,7 @@
 I'm a **full-stack developer** 💻, a **white-hat hacker** 🔐, and just a tech enthusiast who's into... well, **everything**! Yep, you heard that right—**EVERYTHING!** Because hey, *something is always better than nothing*, right? 😆  
 
 🎥・On the side, I run **three YouTube channels** (P.S. I actually upload on just one 😅).  
-💬・I'm pretty active on **[Discord](https://discord.gg/stcApdCN3T)**—feel free to say hi! I used to be big into gaming 🎮, but.. my interest is slowly fading away.
+💬・I'm pretty active on **[Discord](https://discord.gg/stcApdCN3T)**—feel free to say hi! I used to be big into gaming 🎮, but.. my interest is slowly fading away. <br>
 📝・I also have a **[blog](https://techsleekblogs.vercel.app/)** where I share my thoughts, projects, and tech insights. Be sure to check it out! 🚀  
 
 And, uh... I guess that's it! See you around! 😎  
