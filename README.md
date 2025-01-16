@@ -63,10 +63,12 @@ I'm passionate about coding and have been exploring various programming language
 
 ---
 
-[**octo ring**](https://octo-ring.com/)
-    
-
----
+<p align="center">
+  <!-- Monospace Font -->
+  <samp>
+    <a href="https://octo-ring.com/">prev</a> .
+  </samp>
+</p>
 
 <p align="center">
   <!-- Monospace Font -->
