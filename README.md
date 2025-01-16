@@ -4,9 +4,7 @@
 <a>
 
 <p align="center">
-  <samp>
     <img src="https://komarev.com/ghpvc/?username=TheProlifical&style=for-the-badge" alt="Profile Views">
-  </samp>
 </p>
 
 
