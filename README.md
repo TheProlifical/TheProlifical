@@ -19,13 +19,13 @@
 <h2>connect with me</h2>
 <p align="left">
   <a href="https://www.youtube.com/@TheProlifical" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28">
+    @TheProlifical - YouTube
   </a>
   <a href="https://github.com/TheProlifical" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28">
+    @TheProlifical - Github
   </a>
   <a href="https://twitter.com/Ahson_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28">
+    @Ahson_ - Twitter
   </a>
 </p>
 
