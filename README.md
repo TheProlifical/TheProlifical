@@ -1,11 +1,12 @@
 -
 -
 -
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hey!+I'm+Ahson.;I'm+a+full+stack+developer!;%2B+I+do+White+Hat+Hacking+on+the+side!)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TheProlifical&style=for-the-badge)
 
 ## 💻 About Me
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hey!+I'm+Ahson.;I'm+a+full+stack+developer!;%2B+I+do+White+Hat+Hacking+on+the+side!)](https://git.io/typing-svg)
+
 I'm passionate about coding and have been exploring various programming languages and technologies from a young age.
 
 - 🔭 Currently working on **Hand Tracking Software**
