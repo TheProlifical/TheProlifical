@@ -92,3 +92,7 @@ I'm a **full-stack developer** 💻, a **white-hat hacker** 🔐, and an all-aro
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TheProlifical&style=for-the-badge" alt="Profile Views">
 </p>
+
+---
+
+###### PSSS : Check out my [guns.lol page](https://guns.lol/theprolifical)
