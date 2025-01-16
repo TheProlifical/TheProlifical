@@ -77,13 +77,18 @@ And, uh... I guess that's it! See you around! 😎
 
 ---
 
+
 <p align="center">
   <samp>
-    <a href="#">Other Links...</a> | 
-    <a href="mailto:ahson01@proton.me">Mail!</a> | 
-    <a href="https://guns.lol/theprolifical">All Socials!</a>
+    <a href="https://youtube.com/@ahson01">📺 YouTube</a> |
+    <a href="https://discord.com/stcApdCN3T">💬 Discord</a> |
+    <a href="https://open.spotify.com/user/xx07qk8dae8i6p56ib">🎵 Spotify</a> |
+    <a href="https://instagram.com/ahson.001/">📸 Instagram</a> |
+    <a href="https://x.com/@ahson_">🐦 X (Twitter)</a> |
+    <a href="https://github.com/@TheProlifical">💻 GitHub</a>
   </samp>
 </p>
+
 
 ---
 
