@@ -1,7 +1,5 @@
 
-![Background](https://github.com/TheProlifical/TheProlifical/blob/main/banner.png?raw=true)
-
-Hey there! I'm <a href="https://github.com/TheProlifical">Ahson</a> 👋
+# Hey there! I'm <a href="https://github.com/TheProlifical">Ahson</a> 👋
 
 
   <img src="https://komarev.com/ghpvc/?username=TheProlifical&style=for-the-badge" alt="Profile Views">
