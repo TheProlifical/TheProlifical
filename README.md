@@ -17,7 +17,7 @@
 <hr>
 
 <h2>connect with me</h2>
-<p align="left">
+<p align="center">
   <a href="https://www.youtube.com/@TheProlifical" target="_blank">
     @TheProlifical - YouTube
   </a> .
