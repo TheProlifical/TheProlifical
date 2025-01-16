@@ -1,9 +1,9 @@
 # ![Profile Views](https://komarev.com/ghpvc/?username=TheProlifical&style=for-the-badge)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hey!+I'm+Ahson.;I'm+a+full+stack+developer!;%2B+I+do+White+Hat+Hacking+on+the+side!)](https://git.io/typing-svg) <br>
-Hey! I'm <a href="https://github.com/@TheProlifical">Ahson</a> 
-
-# 
+Hey! I'm <a href="https://github.com/@TheProlifical">Ahson</a>... So I'm basically a full stack developer, white hat hacker, and just a coder who's into everything. yes, you heard it right! EVERYTHING! "everything is better than nothing!" am I right?
+So, I run 3 youtube channels on the side, (P.s. : I upload only on one of them).. I'm pretty active on <a href="https://discord.gg/stcApdCN3T">discord</a> and I do play games but I'm slowly losing interest in them :(
+#
 🔭・Currently working on **Hand Tracking Software** <br>
 🌱・Always learning **everything** <br>
 👯・Looking to collaborate on **AI tools** <br>
