@@ -1,6 +1,6 @@
-# ![Profile Views](https://komarev.com/ghpvc/?username=TheProlifical&style=for-the-badge)
+# 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hey!+I'm+Ahson.;I'm+a+full+stack+developer!;%2B+I+do+White+Hat+Hacking+on+the+side!)](https://git.io/typing-svg) <br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hey!+I'm+Ahson.;I'm+a+full+stack+developer!;%2B+I+do+White+Hat+Hacking+on+the+side!)](https://git.io/typing-svg) <br> ![Profile Views](https://komarev.com/ghpvc/?username=TheProlifical&style=for-the-badge)
 <samp>
 Hey! I'm <a href="https://github.com/@TheProlifical">Ahson</a>... I'm a full-stack developer, white-hat hacker, and just a coder who's into everything. Yes, you heard that right—EVERYTHING! "Everything is better than nothing," am I right?  
 I also run three YouTube channels on the side (P.S.: I only upload on one of them). I'm pretty active on <a href="https://discord.gg/stcApdCN3T">Discord</a>, and while I do play games, I'm slowly losing interest in them. :(  
