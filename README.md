@@ -81,19 +81,17 @@ And, uh... I guess that's it! See you around! 😎
 
 <p align="center">
   <samp>
-    <a href="https://octo-ring.com/">Octo-Ring</a>
+    <a href="https://octo-ring.com/">octo-ring</a>
   </samp>
 </p>
 
 <p align="center">
   <samp>
-    <a href="https://octo-ring.com/p/TheProlifical/prev">Prev</a> • 
-    <a href="https://octo-ring.com/p/TheProlifical/random">Random</a> • 
-    <a href="https://octo-ring.com/p/TheProlifical/next">Next</a>
+    <a href="https://octo-ring.com/p/TheProlifical/prev">prev</a> .
+    <a href="https://octo-ring.com/p/TheProlifical/random">random</a> .
+    <a href="https://octo-ring.com/p/TheProlifical/next">next</a> .
   </samp>
 </p>
-
----
 
 ---
 
