@@ -20,13 +20,13 @@
 <p align="left">
   <a href="https://www.youtube.com/@TheProlifical" target="_blank">
     @TheProlifical - YouTube
-  </a>
+  </a> .
   <a href="https://github.com/TheProlifical" target="_blank">
     @TheProlifical - Github
-  </a>
+  </a> .
   <a href="https://twitter.com/Ahson_" target="_blank">
     @Ahson_ - Twitter
-  </a>
+  </a> .
 </p>
 
 <hr>
