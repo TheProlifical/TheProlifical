@@ -7,12 +7,11 @@ I also run three YouTube channels on the side (P.S.: I only upload on one of the
 I also have a <a href="https://techsleekblogs.vercel.app/">blog</a>, so make sure to check it out! And uh… I guess that's it!  
 <samp>
 #
-<samp>
-<h3>🔭・Currently working on <strong>Hand Tracking Software</strong> <br>
+
+  🔭・Currently working on <strong>Hand Tracking Software</strong> <br>
   🌱・Always learning <strong>everything</strong> <br>
   👯・Looking to collaborate on <strong>AI tools</strong> <br>
-  🤔・Seeking help with <strong>Web Design</strong> </h3>
-</samp>
+  🤔・Seeking help with <strong>Web Design</strong>
 
 ---
 
