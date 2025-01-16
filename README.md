@@ -12,6 +12,7 @@ I'm passionate about coding and have been exploring various programming language
 - 👯 Looking to collaborate on **AI tools**
 - 🤔 Seeking help with **Web Design**
 </samp>
+
 ---
 
 ## connect with me
