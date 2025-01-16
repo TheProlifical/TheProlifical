@@ -2,9 +2,6 @@
 # Hey there! I'm <a href="https://github.com/TheProlifical">Ahson</a> 👋
 
 
-  <img src="https://komarev.com/ghpvc/?username=TheProlifical&style=for-the-badge" alt="Profile Views">
-
-
 ---
 
 ### 🚀 About Me
@@ -75,6 +72,11 @@ I'm a **full-stack developer** 💻, a **white-hat hacker** 🔐, and an all-aro
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TheProlifical&style=for-the-badge" alt="Profile Views">
+</p>
+
+---
 ### 🔗 Octo-Ring
 <p align="center">
   <samp>
