@@ -66,7 +66,7 @@ I'm passionate about coding and have been exploring various programming language
 <p align="center">
   <!-- Monospace Font -->
   <samp>
-    <a href="https://octo-ring.com/">prev</a> .
+    <a href="https://octo-ring.com/">octo-ring</a> .
   </samp>
 </p>
 
