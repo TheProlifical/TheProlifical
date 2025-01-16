@@ -3,7 +3,7 @@
 
 <a>
 <p align="right">
-<h3>Welcome to my humble abode!</h1>____________________________<img src="https://komarev.com/ghpvc/?username=TheProlifical&style=for-the-badge" alt="Profile Views">
+Welcome to my humble abode!____________________________<img src="https://komarev.com/ghpvc/?username=TheProlifical&style=for-the-badge" alt="Profile Views">
 </p>
 
 </a>
