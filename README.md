@@ -2,9 +2,19 @@
 
 
 <a>
-<p align="right">
-Welcome to my humble abode!____________________________<img src="https://komarev.com/ghpvc/?username=TheProlifical&style=for-the-badge" alt="Profile Views">
+
+<p align="center">
+  <samp>
+    <a>Welcome to my HUMBLE ABODE!</a>
+  </samp>
 </p>
+
+<p align="center">
+  <samp>
+    <img src="https://komarev.com/ghpvc/?username=TheProlifical&style=for-the-badge" alt="Profile Views">
+  </samp>
+</p>
+
 
 </a>
 
