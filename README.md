@@ -13,23 +13,23 @@
 </a>
 
 
-
 ### 👋 Hey there! I'm <a href="https://github.com/@TheProlifical">Ahson</a>  
 
 I'm a **full-stack developer** 💻, a **white-hat hacker** 🔐, and just a tech enthusiast who's into... well, **everything**! Yep, you heard that right—**EVERYTHING!** Because hey, *something is always better than nothing*, right? 😆  
 
-🎥・On the side, I run **three YouTube channels** (P.S. I actually upload on just one 😅).  
-💬・I'm pretty active on **[Discord](https://discord.gg/stcApdCN3T)**—feel free to say hi! I used to be big into gaming 🎮, but.. my interest is slowly fading away. <br>
+🎥・I run **three YouTube channels** (P.S. I actually upload on just one 😅).  
+💬・I'm pretty active on **[Discord](https://discord.gg/stcApdCN3T)**—feel free to say hi! I used to be big into gaming 🎮, but my interest is slowly fading away.  
 📝・I also have a **[blog](https://techsleekblogs.vercel.app/)** where I share my thoughts, projects, and tech insights. Be sure to check it out! 🚀  
 
+---
+
+### 🔍 What I'm up to:  
+🔭・Currently working on **Hand Tracking Software** 🤖  
+🌱・Always learning **everything** 📚  
+👯・Looking to collaborate on **AI tools** 🧠  
+🎨・Seeking help with **Web Design** 🎭  
+
 And, uh... I guess that's it! See you around! 😎  
-
-#
-
-  🔭・Currently working on <strong>Hand Tracking Software</strong> <br>
-  🌱・Always learning <strong>everything</strong> <br>
-  👯・Looking to collaborate on <strong>AI tools</strong> <br>
-  🤔・Seeking help with <strong>Web Design</strong>
 
 ---
 
