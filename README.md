@@ -1,7 +1,9 @@
 # ![Profile Views](https://komarev.com/ghpvc/?username=TheProlifical&style=for-the-badge)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hey!+I'm+Ahson.;I'm+a+full+stack+developer!;%2B+I+do+White+Hat+Hacking+on+the+side!)](https://git.io/typing-svg) <br>
-Hey! I'm <a href="https://github.com/@TheProlifical>Ahson</a> <br>
+
+Hey! I'm <a href="https://github.com/@TheProlifical">Ahson</a> 
+<br>
 🔭・Currently working on **Hand Tracking Software** <br>
 🌱・Always learning **everything** <br>
 👯・Looking to collaborate on **AI tools** <br>
