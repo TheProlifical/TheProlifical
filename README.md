@@ -1,4 +1,3 @@
-
 ![Profile Views](https://komarev.com/ghpvc/?username=TheProlifical&style=for-the-badge)
 
 # ᴀʙᴏᴜᴛ ᴍᴇ
@@ -70,7 +69,6 @@ I'm passionate about coding and have been exploring various programming language
 </p>
 
 ---
-
 
 <p align="center">
   <samp>
