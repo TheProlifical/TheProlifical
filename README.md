@@ -1,5 +1,5 @@
+###### The below picture was taken by me using a Samsung Galaxy A54 5G phone, and was further edited in photoshop.
 ![Background](https://github.com/TheProlifical/TheProlifical/blob/main/banner.png?raw=true)
-###### Photo Taken by me
 # 
 
 <a>
