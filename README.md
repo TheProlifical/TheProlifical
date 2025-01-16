@@ -1,11 +1,9 @@
 ![Background](https://github.com/TheProlifical/TheProlifical/blob/main/banner.png?raw=true)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hey!+I'm+Ahson.;I'm+a+full+stack+developer!;%2B+I+do+White+Hat+Hacking+on+the+side!)](https://git.io/typing-svg) <p align="right"> ![Profile Views](https://komarev.com/ghpvc/?username=TheProlifical&style=for-the-badge) </p>
-<samp>
 Hey! I'm <a href="https://github.com/@TheProlifical">Ahson</a>... I'm a full-stack developer, white-hat hacker, and just a coder who's into everything. Yes, you heard that right—EVERYTHING! "Everything is better than nothing," am I right?  
 I also run three YouTube channels on the side (P.S.: I only upload on one of them). I'm pretty active on <a href="https://discord.gg/stcApdCN3T">Discord</a>, and while I do play games, I'm slowly losing interest in them. :(  
 I also have a <a href="https://techsleekblogs.vercel.app/">blog</a>, so make sure to check it out! And uh… I guess that's it!  
-<samp>
 #
 
   🔭・Currently working on <strong>Hand Tracking Software</strong> <br>
