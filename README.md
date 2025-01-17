@@ -9,23 +9,23 @@
 I'm a **full-stack developer** 💻, a **white-hat hacker** 🔐, and an all-around **tech enthusiast**. I love diving into everything because, hey, *something is always better than nothing*, right? 
 
 - ``🎥`` **Three YouTube channels** (I actually upload on just one lol).
-- 💬 Active on **[Discord](https://discord.gg/stcApdCN3T)**—drop by and say hi!
-- 📝 **[Check out my blog](https://techsleekblogs.vercel.app/)** for projects, tech insights, and thoughts.
+- ``💬`` Active on **[Discord](https://discord.gg/stcApdCN3T)**—drop by and say hi!
+- ``📝`` **[Check out my blog](https://techsleekblogs.vercel.app/)** for projects, tech insights, and thoughts.
 
 ---
 
 ### 🔍 What I'm Up To
 
-- 🔭 **Building**: Wifi Hacking Tool 🤖  
-- 🌱 **Learning**: Everything 📚  
-- 👯 **Collaborating**: AI tools & Web Projects 🧠  
-- 🎨 **Seeking Help**: Discovering a new web development stack called "TRAP" 
+- ``🔭`` **Building**: Wifi Hacking Tool 🤖  
+- ``🌱`` **Learning**: Everything 📚  
+- ``👯`` **Collaborating**: AI tools & Web Projects 🧠  
+- ``🎨`` **Seeking Help**: Discovering a new web development stack called "TRAP" 
 
 ---
 
-## ⚙️ Tech Stack
+## ``⚙️`` Tech Stack
 
-### 🖥️ Languages
+### ``🖥️`` Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -34,7 +34,7 @@ I'm a **full-stack developer** 💻, a **white-hat hacker** 🔐, and an all-aro
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-orange?style=for-the-badge&logo=rust&logoColor=white)
 
-### 🔧 Backend
+### ``🔧`` Backend
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
@@ -42,7 +42,7 @@ I'm a **full-stack developer** 💻, a **white-hat hacker** 🔐, and an all-aro
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-### 🎨 Frontend
+### ``🎨`` Frontend
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -50,7 +50,7 @@ I'm a **full-stack developer** 💻, a **white-hat hacker** 🔐, and an all-aro
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-### 🛠️ Tools
+### ``🛠️`` Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
@@ -59,7 +59,7 @@ I'm a **full-stack developer** 💻, a **white-hat hacker** 🔐, and an all-aro
 
 ---
 
-### 🌎 Find Me Here
+### ``🌎`` Find Me Here
 
 <p align="center">
   <a href="https://youtube.com/@ahson01">📺 YouTube</a> |
@@ -72,7 +72,7 @@ I'm a **full-stack developer** 💻, a **white-hat hacker** 🔐, and an all-aro
 
 
 ---
-### 🔗 Octo-Ring
+### ``🔗`` Octo-Ring
 <p align="center">
   <samp>
     <a href="https://octo-ring.com/">octo-ring</a>
