@@ -1,6 +1,6 @@
 
  
-<h1> Hey there! I'm <a href="https://github.com/TheProlifical">Ahson</a> 👋  
+<h1> Hey there! I'm <a href="https://github.com/ahson01">Ahson</a> 👋  
 <br>   
 </h1>
 
@@ -67,7 +67,7 @@ I'm a **full-stack developer** 💻, a **white-hat hacker** 🔐, and an all-aro
   <a href="https://open.spotify.com/user/xx07qk8dae8i6p56ib">🎵 Spotify</a> |
   <a href="https://instagram.com/ahson.001/">📸 Instagram</a> |
   <a href="https://x.com/@ahson_">🐦 X (Twitter)</a> |
-  <a href="https://github.com/@TheProlifical">💻 GitHub</a>
+  <a href="https://github.com/@ahson01">💻 GitHub</a>
 </p>
 
 
@@ -81,16 +81,16 @@ I'm a **full-stack developer** 💻, a **white-hat hacker** 🔐, and an all-aro
 
 <p align="center">
   <samp>
-    <a href="https://octo-ring.com/p/TheProlifical/prev">prev</a> |
-    <a href="https://octo-ring.com/p/TheProlifical/random">random</a> |
-    <a href="https://octo-ring.com/p/TheProlifical/next">next</a>
+    <a href="https://octo-ring.com/p/ahson01/prev">prev</a> |
+    <a href="https://octo-ring.com/p/ahson01/random">random</a> |
+    <a href="https://octo-ring.com/p/ahson01/next">next</a>
   </samp>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheProlifical&style=for-the-badge" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=ahson01&style=for-the-badge" alt="Profile Views">
 </p>
 
 ---
