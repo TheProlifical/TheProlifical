@@ -56,19 +56,6 @@ I'm a **full-stack developer** 💻, a **white-hat hacker** 🔐, and an all-aro
 
 ---
 
-### ``🌎`` Find Me Here
-
-<p align="center">
-  <a href="https://youtube.com/@ahson01">📺 YouTube</a> |
-  <a href="https://discord.gg/stcApdCN3T">💬 Discord</a> |
-  <a href="https://open.spotify.com/user/xx07qk8dae8i6p56ib">🎵 Spotify</a> |
-  <a href="https://instagram.com/ahson.001/">📸 Instagram</a> |
-  <a href="https://x.com/@ahson_">🐦 X (Twitter)</a> |
-  <a href="https://github.com/@ahson01">💻 GitHub</a>
-</p>
-
-
----
 ### ``🔗`` Octo-Ring
 <p align="center">
   <samp>
